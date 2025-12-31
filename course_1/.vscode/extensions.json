@@ -1,8 +1,7 @@
 {
     "recommendations": [
-        "rust-lang.rust-analyzer", // Rust 官方语言服务器，提供代码补全/跳转/编译检查（嵌入式Rust开发核心）
+        "rust-lang.rust-analyzer", // Rust 官方语言服务器，提供代码补全/跳转/编译检查
         "tamasfe.even-better-toml", // TOML 文件增强支持（Cargo.toml 语法高亮/格式化/校验）
-        "fill-labs.dependi", // Rust 依赖管理工具，可视化依赖树、检查更新/漏洞（适配嵌入式依赖管控）
         "probe-rs.probe-rs-debugger", // Probe-rs 调试插件，支持STM32等嵌入式芯片的烧录/调试/RTT日志
     ],
 }
