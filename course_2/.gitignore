@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/prompts
+!/prompts/*
+!/.vscode
+!/.vscode/extensions.json
